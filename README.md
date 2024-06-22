@@ -1,6 +1,6 @@
 # README.md - Nguyen Hong The's Portfolio Website
 
-![Nguyen Hong The's Portfolio Website](https://raw.githubusercontent.com/nguyenhongthe/nguyenhongthe.me/main/screenshot.png)
+![Nguyen Hong The's Portfolio Website](https://raw.githubusercontent.com/nguyenhongthe/nguyenhongthe.me/main/screenshot.png?token=GHSAT0AAAAAACOR4ZWX5OUAUHT2A3SF7VNYZTWQEPQ)
 
 ## Welcome
 
