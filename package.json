@@ -1,7 +1,7 @@
 {
   "name": "nguyenhongthe.me",
-  "version": "1.0.2",
-  "description": "Nguyen Hong The's Portfolio Website.",
+  "version": "1.0.3",
+  "description": "Nguyen Hong The's Resume Website.",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
   "keywords": [
     "bootstrap-4"
   ],
-  "author": "Nguyen Hong The",
+  "author": "Nguyễn Hồng Thế Blog",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nguyenhongthe/nguyenhongthe.me/issues"
