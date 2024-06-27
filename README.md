@@ -1,10 +1,10 @@
-# README.md - Nguyen Hong The's Portfolio Website
+# README.md - Nguyen Hong The's Resume Website
 
-![Nguyen Hong The's Portfolio Website](https://raw.githubusercontent.com/nguyenhongthe/nguyenhongthe.me/main/screenshot.png?token=GHSAT0AAAAAACOR4ZWX5OUAUHT2A3SF7VNYZTWQEPQ)
+![Nguyen Hong The's Resume Website](https://raw.githubusercontent.com/nguyenhongthe/nguyenhongthe.me/main/screenshot.png?token=GHSAT0AAAAAACOR4ZWX5OUAUHT2A3SF7VNYZTWQEPQ)
 
 ## Welcome
 
-Welcome to the open-source repository of Nguyen Hong The's personal portfolio website! This is the place to discover artistic creations and a journey of an inspired artist.
+Welcome to the open-source repository of Nguyen Hong The's personal Resume Website! This is the place to discover artistic creations and a journey of an inspired artist.
 
 ## Introduction
 
@@ -36,7 +36,7 @@ If you would like to contribute to this project, create a Pull Request and clear
 ## Author
 
 - **Nguyen Hong The**
-- Website: [https://www.nguyenhongthe.me](https://www.nguyenhongthe.me)
+- Website: [https://nguyenhongthe.me](https://nguyenhongthe.me)
 - GitHub: [https://github.com/nguyenhongthe](https://github.com/nguyenhongthe)
 
 ## License
