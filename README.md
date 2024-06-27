@@ -1,6 +1,6 @@
 # README.md - Nguyen Hong The's Resume Website
 
-![Nguyen Hong The's Resume Website](https://raw.githubusercontent.com/nguyenhongthe/nguyenhongthe.me/main/screenshot.png?token=GHSAT0AAAAAACOR4ZWX5OUAUHT2A3SF7VNYZTWQEPQ)
+![Nguyen Hong The's Resume Website](https://nguyenhongthe.me/img/og.png)
 
 ## Welcome
 
